@@ -1,0 +1,10 @@
+# Archivos de PyCharm
+.idea/
+
+# Archivos compilados de Python
+__pycache__/
+*.py[cod]
+
+# Entornos virtuales
+venv/
+env/
