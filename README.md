@@ -1,4 +1,4 @@
-# Sistema de Gestión de Productos 🧾🐍
+# Sistema de Gestión de Productos
 
 ## Descripción del proyecto
 
@@ -18,7 +18,7 @@ El objetivo principal es demostrar el uso correcto de:
 
 ## Funcionalidades principales
 
-### 🔐 Validación de usuarios
+### Validación de usuarios
 
 * Ingreso de nombre de usuario.
 * Validación de edad (rango entre 18 y 99 años).
@@ -34,7 +34,7 @@ El objetivo principal es demostrar el uso correcto de:
 
 ---
 
-### 👤 Menú Cliente
+### Menú Cliente
 
 El usuario con rol **Cliente** puede:
 
@@ -44,7 +44,7 @@ El usuario con rol **Cliente** puede:
 
 ---
 
-### 🧑‍💼 Menú Proveedor
+### Menú Proveedor
 
 El usuario con rol **Proveedor** puede:
 
@@ -76,7 +76,7 @@ DesarrolloModulo3/
 
 ## Descripción de los módulos
 
-### 📌 main.py
+### main.py
 
 Archivo principal del sistema.
 
@@ -87,7 +87,7 @@ Archivo principal del sistema.
 
 ---
 
-### 📌 modulos/validaciones.py
+### modulos/validaciones.py
 
 Contiene funciones encargadas de validar la información ingresada:
 
@@ -97,7 +97,7 @@ Contiene funciones encargadas de validar la información ingresada:
 
 ---
 
-### 📌 modulos/gestion_datos.py
+### modulos/gestion_datos.py
 
 Encargado de la gestión de datos del sistema:
 
@@ -111,7 +111,7 @@ Encargado de la gestión de datos del sistema:
 
 ---
 
-### 📌 modulos/menu.py
+### modulos/menu.py
 
 Implementa los menús interactivos del sistema:
 
